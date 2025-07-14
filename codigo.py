@@ -1,4 +1,5 @@
 nombre = "Juan"
 apellido = "Perdomo"
 
-print("Hola", nombre + ",", apellido, "¿cómo estás?")
+saludo = "Hola", nombre + ",", apellido, "¿cómo estás?"
+print(saludo)
